@@ -2,7 +2,7 @@
 ## 讲员：苗弟兄
 ## 经文：《路加福音》19章（复习）
 
-<audio controls src="./230730.mp3"></audio>
+<audio controls src="./00_230730.mp3"></audio>
 
 ![](./01.JPG)
 ![](./02.JPG)
